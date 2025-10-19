@@ -20,8 +20,7 @@ Why I Chose It:
 I’m interested in how lifestyle factors and personal habits impact sleep quality and overall health. This dataset gives me the opportunity to analyze relationships between stress, daily activity, sleep duration, and sleep disorders in a real-world sample.
 
 Source:
-[Kaggle – Sleep Health and Lifestyle Dataset]:[
-](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+[Kaggle – Sleep Health and Lifestyle Dataset]:(https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -32,3 +31,4 @@ Why I Chose It:
 I’m interested in how property features (size, type, location) and market context (city vs city) affect rental price-levels. This dataset gives me the ability to explore relationships like how area correlates with rent, how rental prices vary by type and city, and what trends exist across a major real-estate market.  
 **Source:**  
 [Kaggle – Dubai Real Estate Goldmine, UAE Rental Market Data: (https://www.kaggle.com/datasets/azharsaleem/real-estate-goldmine-dubai-uae-rental-market)
+
