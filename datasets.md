@@ -9,6 +9,7 @@ I wanted to understand how external news and investor sentiment influence short-
 Source:
 Kaggle – NIFSent: News and Financial Sentiment Dataset: https://www.kaggle.com/datasets/gauravdhyani/nifsent
 
+------------------------------------------------------------------------------------------------------------------
 
 2. Sleep Health & Lifestyle Dataset  
 Description: 
@@ -21,3 +22,13 @@ I’m interested in how lifestyle factors and personal habits impact sleep quali
 Source:
 [Kaggle – Sleep Health and Lifestyle Dataset]:[
 ](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+
+------------------------------------------------------------------------------------------------------------------
+
+3.  Dubai Real Estate Goldmine – UAE Rental Market Data  
+Description:
+This dataset contains hundreds of thousands of rental property listings across the United Arab Emirates (UAE), including major cities like Dubai, Abu Dhabi and Sharjah. Sample variables include: `Address`, `City`, `Type` (Apartment, Villa, Penthouse), `Beds`, `Baths`, `Area in sqft`, `Annual Rent (AED)`, `Rent per sqft`, `Furnishing Status`, `Posted Date`, `Age of Listing`, `Latitude`, `Longitude`, and other location details.  
+Why I Chose It:
+I’m interested in how property features (size, type, location) and market context (city vs city) affect rental price-levels. This dataset gives me the ability to explore relationships like how area correlates with rent, how rental prices vary by type and city, and what trends exist across a major real-estate market.  
+**Source:**  
+[Kaggle – Dubai Real Estate Goldmine, UAE Rental Market Data: (https://www.kaggle.com/datasets/azharsaleem/real-estate-goldmine-dubai-uae-rental-market)
